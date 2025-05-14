@@ -1,0 +1,51 @@
+{
+  "resources/css/admin/app.css": {
+    "file": "assets/app-B-ZvaTcL.css",
+    "src": "resources/css/admin/app.css",
+    "isEntry": true
+  },
+  "resources/css/admin/auth.css": {
+    "file": "assets/auth-Du0ZznzM.css",
+    "src": "resources/css/admin/auth.css",
+    "isEntry": true
+  },
+  "resources/css/frontend/app.css": {
+    "file": "assets/app-CwSDTZ-x.css",
+    "src": "resources/css/frontend/app.css",
+    "isEntry": true
+  },
+  "resources/css/frontend/base.css": {
+    "file": "assets/base-D8buQTX8.css",
+    "src": "resources/css/frontend/base.css",
+    "isEntry": true
+  },
+  "resources/css/frontend/common.css": {
+    "file": "assets/common-CapgH9Kz.css",
+    "src": "resources/css/frontend/common.css",
+    "isEntry": true
+  },
+  "resources/js/admin/app.js": {
+    "file": "assets/app-B3q1aF4O.js",
+    "name": "app",
+    "src": "resources/js/admin/app.js",
+    "isEntry": true
+  },
+  "resources/js/admin/dashboard.js": {
+    "file": "assets/dashboard-ejit99l8.js",
+    "name": "dashboard",
+    "src": "resources/js/admin/dashboard.js",
+    "isEntry": true
+  },
+  "resources/js/frontend/app.js": {
+    "file": "assets/app-DKHLNN9C.js",
+    "name": "app",
+    "src": "resources/js/frontend/app.js",
+    "isEntry": true
+  },
+  "resources/js/frontend/common.js": {
+    "file": "assets/common-DziINZrV.js",
+    "name": "common",
+    "src": "resources/js/frontend/common.js",
+    "isEntry": true
+  }
+}

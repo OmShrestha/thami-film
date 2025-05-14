@@ -1,0 +1,19 @@
+@import url('vendor/bootstrap.min.css');
+@import url('vendor/all.min.css');
+@import url('vendor/line-awesome.css');
+@import url('vendor/ionicons.css');
+@import url('vendor/themify-icons.css');
+@import url('vendor/animate.css');
+@import url('vendor/jquery.fancybox.css');
+@import url('vendor/lity.css');
+@import url('vendor/swiper8.min.css');
+@import url("vendor/justifiedGallery.min.css");
+@import url("vendor/magnific-popup.css");
+@import url("vendor/YouTubePopUp.css");
+@import url("vendor/slick.css");
+@import url("vendor/slick-theme.css");
+
+@font-face {
+    font-family: "butler";
+    src: local("../fonts/Butler_Stencil/Butler_Bold_Stencil.otf");
+}
